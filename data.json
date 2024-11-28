@@ -1,7 +1,7 @@
 [
     {
        "image": {
-            "desktop": "./../../aaa/assets/images/image-waffle-desktop.jpg"
+            "desktop": "./../../assets/images/image-waffle-desktop.jpg"
        },
        "name": "Waffle with Berries",
        "category": "Waffle",
